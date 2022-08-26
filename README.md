@@ -1,3 +1,4 @@
+[![devblaise](https://circleci.com/gh/Devblaise/UdacityP4-operationalize-ml.svg?style=svg)](https://app.circleci.com/pipelines/github/Devblaise/UdacityP4-operationalize-ml)
 ## Project Overview
 
 The Operationalize ML project contains a Machine Learning Microservice, built on **Scikit-Learn**. It contains a model that predicts house prices in Boston according to several features, such as average rooms in a home and data about highway access, teacher-to-pupil ratios, and so on. You can read more about the data, which was initially taken from Kaggle, on [the data source site](https://www.kaggle.com/c/boston-housing). 
